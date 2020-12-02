@@ -20,8 +20,7 @@ input[type="email"]:focus,
 input[type="url"]:focus,  
 input[type="search"]:focus,  
 input[type="tel"]:focus,  
-input[type="color"]:focus,  
-.uneditable-input:focus {     
+input[type="color"]:focus {     
 	box-shadow: 0 1px 1px rgba(0, 0, 0, 0) !important;  
 	outline: 0 none;  
 }  
